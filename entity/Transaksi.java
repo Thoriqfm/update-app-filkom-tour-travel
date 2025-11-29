@@ -1,4 +1,4 @@
-package entity.transc;
+package entity;
 
 public abstract class Transaksi {
 

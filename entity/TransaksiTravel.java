@@ -1,6 +1,4 @@
-package entity.transc;
-
-import entity.*;
+package entity;
 
 public class TransaksiTravel extends Transaksi {
 
